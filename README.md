@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ahmedsalah
-- 
 - 👀 I’m interested in Mobile development
 - 🌱 I’m currently learning Mobile application development
 - 💞️ I’m looking to collaborate on 
