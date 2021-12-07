@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedsalah
-- 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning Mobile application development
+- 👀 I’m interested in Software development 
+- 🌱 I’m currently learning Go programming language
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... https://www.facebook.com/jhinhyper
 
