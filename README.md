@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ahmedsalah
-- 👀 I’m interested in Software development 
+- 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Go programming language
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... https://www.facebook.com/jhinhyper
 
 <!---
